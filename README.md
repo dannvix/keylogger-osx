@@ -1,7 +1,12 @@
 keylogger-osx
 =============
 
-This is a very simple keylogger for self-quantifying. **Please do not ever take this project for any malicious purpose.** By the way, the source code is awfully dirty, but it works for me, and that's enough.
+This is a very simple keylogger for self-quantifying. The source code is awfully dirty, but it works for me and that's enough.
+
+
+Disclaimer
+----------
+**Please do not ever take this project for any evil purpose.**
 
 
 Story
